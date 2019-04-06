@@ -1,0 +1,31 @@
+.play_main{width:945px; margin:0px auto;position:relative}
+.play_left{width:444px}
+.main{height:100%; background-color:#333; flex-grow:1}
+.space_hx9{height:30px; width:1px}
+.space_ox9{height:1px; width:30px}
+html,body{height:100%;  }
+body{ display:flex; flex-direction:column;color:#FFF}
+.singImg{width:285px}
+.singImgDiv{text-align:center}
+.sro-hidden{width: 420px;position:relative;overflow: hidden;}
+#lrc{overflow:auto;width:440px; height:300px; text-align:left; }
+#lrc li{height:30px; line-height:30px; text-align: left}
+.onlyc{color:#0F3}
+.main{position:relative}
+.bottmPlay{position:fixed;bottom:0px;background-color:#000;height:100px; width:100%;filter:alpha(opacity=50);-moz-opacity:0.5; -khtml-opacity:0.5; opacity:0.5;}
+.Btn,.singIm{position:relative}
+.singIm img{width:60px; height:60px}
+.timeDiv{height:2px; background:#CCC; width:377px; margin-top:10px;position:relative;}
+.timeDiv .nowTimeDiv{height:1px; border:solid 1px #00FF00;position:relative;}
+.singName{margin-top:30px;color:#FFF; font-size:12px;}
+.guangbiao{height:9px;border-left:solid #FFF 5px;margin-top:-3px}
+.clickDiv{height:20px;display:inline-block;overflow:hidden}
+.Btn{top:50%; margin-top: 27px}
+.singIm{top:50%;margin-top: 20px}
+#singSug li:first-child  {height:30px;line-height: 30px; font-size: 20px; text-align: left}
+#singSug li:nth-child(2){height:30px;line-height: 30px; font-size: 18px; width: 440px}
+#singSug div{width:220px; line-height: 14px;}
+#singSug div span{font-size: 14px}
+.spaceH{height:10px;width:1px}
+.spaceH2{height:20px;width:1px}
+.downBtn{border-radius:20px; height:50px;width: 230px; border: solid #fff 1px;background: rgba(0,0,0,0); color:#fff}
